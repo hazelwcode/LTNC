@@ -21,6 +21,9 @@ Khi người chơi chơi hết mạng, game sẽ kết thúc và điểm xuất 
 5. Bảng điểm cao
 6. Một vài hình ảnh từ game
 
-# Cấu trúc của game
 # Các nguồn tham khảo 
-# Kết luận 
+- Hình ảnh đồ họa được xử lý từ 1 gif và các nguồn sẵn khác.
+- 
+# Tổng kết 
+- Những kiến thức đã học được
+- Những điều mong muốn cải thiện 
