@@ -20,8 +20,8 @@ void Map::renderScrollingBackground(SDL_Renderer* renderer) {
 void Map::renderScrollingGround(int& pos, SDL_Renderer* renderer) {
     pos = pos - (GROUND_SPEED);
     if (pos < -SCREEN_WIDTH) pos = 0;
-    Ground.render(pos, 0, renderer);
-    Ground.render(SCREEN_WIDTH + pos, 0, renderer);
+    backGround.render(pos, 0, renderer);
+    backGround.render(SCREEN_WIDTH + pos, 0, renderer);
 }
 
 void Map::cleanUp() {
