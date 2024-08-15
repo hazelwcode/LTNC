@@ -1,0 +1,28 @@
+﻿  Button.cpp
+  CommonFunc.cpp
+  Enemy.cpp
+C:\game\flyingkirby\Enemy.cpp(70,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  FPS.cpp
+  FlyingKirby.cpp
+C:\game\flyingkirby\FlyingKirby.cpp(233,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\game\flyingkirby\FlyingKirby.cpp(305,32): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\game\flyingkirby\FlyingKirby.cpp(449,31): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Kirby.cpp
+C:\game\flyingkirby\Kirby.cpp(31,16): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  LTexture.cpp
+C:\game\flyingkirby\LTexture.cpp(100,26): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\game\flyingkirby\LTexture.cpp(100,26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\game\flyingkirby\LTexture.cpp(100,36): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\game\flyingkirby\LTexture.cpp(100,36): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\game\flyingkirby\LTexture.cpp(100,46): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\game\flyingkirby\LTexture.cpp(100,46): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\game\flyingkirby\LTexture.cpp(100,53): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\game\flyingkirby\LTexture.cpp(100,53): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Map.cpp
+C:\game\flyingkirby\Map.cpp(21,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Mouse.cpp
+  Object.cpp
+  SDL_InitWindow.cpp
+  main.cpp
+  Generating Code...
+  flyingkirby.vcxproj -> C:\game\flyingkirby\Debug\flyingkirby.exe
