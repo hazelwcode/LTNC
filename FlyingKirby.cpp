@@ -162,8 +162,8 @@ void FlyingKirby::displayGame() {
 
     const int STATUS_GAME_BUTTON_X = 25;
     const int STATUS_GAME_BUTTON_Y = 25;
-    const int SET_CLIP_STATUS_GAMEBUTTON_X = 34;
-    const int SET_CLIP_STATUS_GAMEBUTTON_Y = 22;
+    const int SET_CLIP_STATUS_GAMEBUTTON_X = 54;
+    const int SET_CLIP_STATUS_GAMEBUTTON_Y = 54;
 
     Button pauseButton;
     pauseButton.setIdFrame(0);
@@ -191,7 +191,7 @@ void FlyingKirby::displayGame() {
 
     const int SOUND_BUTTON_X = 75;
     const int SOUND_BUTTON_Y = 25;
-    const int SET_CLIP_SOUND_BUTTON_X = 34;
+    const int SET_CLIP_SOUND_BUTTON_X = 35;
     const int SET_CLIP_SOUND_BUTTON_Y = 40;
     Button soundOnButtonRemove;
     soundOnButtonRemove.setIdFrame(0);
@@ -476,8 +476,8 @@ void FlyingKirby::displayHelpGame() {
     BaseObject backgroundMenu;
     backgroundMenu.loadImage("flyingkirby/Resource/BackGround/instruction.png", gRenderer);
 
-    const int SET_CLIP_BACKBUTTION_HEIGHT = 78;
-    const int SET_CLIP_BACKBUTTION_WIDTH = 100;
+    const int SET_CLIP_BACKBUTTION_HEIGHT = 55;
+    const int SET_CLIP_BACKBUTTION_WIDTH = 111;
 
     Button backButton;
     backButton.sethRectHeight(SET_CLIP_BACKBUTTION_HEIGHT);
