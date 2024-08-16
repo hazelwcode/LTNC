@@ -154,7 +154,7 @@ void FlyingKirby::displayGame() {
         cout << "Can't not load TTF!!!";
         return;
     }
-    fontGame = TTF_OpenFont("flyingkirby/Resource/Font/arcade_gamer.ttf", FONT_SIZE);
+    fontGame = TTF_OpenFont("flyingkirby/Resource/Font/pixel_font.ttf", FONT_SIZE);
     if (fontGame == NULL) {
         cout << "Can't not load Font!!!";
         return;
@@ -189,10 +189,10 @@ void FlyingKirby::displayGame() {
     continueButton.sethRectWidth(SET_CLIP_STATUS_GAMEBUTTON_Y);
     continueButton.loadImage("flyingkirby/Resource/Button/continue_button.png", gRenderer);
 
-    const int SOUND_BUTTON_X = 75;
+    const int SOUND_BUTTON_X = 100;
     const int SOUND_BUTTON_Y = 25;
-    const int SET_CLIP_SOUND_BUTTON_X = 35;
-    const int SET_CLIP_SOUND_BUTTON_Y = 40;
+    const int SET_CLIP_SOUND_BUTTON_X = 54;
+    const int SET_CLIP_SOUND_BUTTON_Y = 54;
     Button soundOnButtonRemove;
     soundOnButtonRemove.setIdFrame(0);
     soundOnButtonRemove.setPosX(SOUND_BUTTON_X);
@@ -477,7 +477,7 @@ void FlyingKirby::displayHelpGame() {
     backgroundMenu.loadImage("flyingkirby/Resource/BackGround/instruction.png", gRenderer);
 
     const int SET_CLIP_BACKBUTTION_HEIGHT = 55;
-    const int SET_CLIP_BACKBUTTION_WIDTH = 111;
+    const int SET_CLIP_BACKBUTTION_WIDTH = 55;
 
     Button backButton;
     backButton.sethRectHeight(SET_CLIP_BACKBUTTION_HEIGHT);

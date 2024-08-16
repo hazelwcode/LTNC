@@ -3,11 +3,11 @@
 Kirby::Kirby() {
     hRect.x = SCREEN_WIDTH - 700;
     hRect.y = GROUND;
-    hRect.w = hRect.h = 57;
+    hRect.w = hRect.h = 50;
 
 }
 
-bool Kirby::onGround() {
+bool Kirby::onGround() { 
     return hRect.y == GROUND;
 }
 

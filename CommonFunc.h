@@ -37,7 +37,7 @@ const int MAX_ACCELERATION = 9;
 const int RUNNING_FRAMES = 6;
 static SDL_Rect kirby_frame[RUNNING_FRAMES];
 
-const int FONT_SIZE = 35;
+const int FONT_SIZE = 30;
 
 /* RENDER DRAW COLOR */
 const int RENDER_DRAW_COLOR = 255;
