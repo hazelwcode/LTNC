@@ -16,7 +16,7 @@ Khi người chơi chơi hết mạng, game sẽ kết thúc và điểm xuất 
 
 # Các thông tin chi tiết 
 1. Menu trò chơi
-   ![Menu game](flyingkirby/Resource/BackGround/Background.png)
+   ![Menu game](flyingkirby/Resource/BackGround/menu.png)
 3. Hướng dẫn (Help)
    Giới thiệu ngắn gọn về trò chơi để người chơi nắm thông tin cơ bản
 4. 
