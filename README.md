@@ -16,7 +16,7 @@ Khi người chơi chơi hết mạng, game sẽ kết thúc và điểm xuất 
 
 # Các thông tin chi tiết 
 1. Menu trò chơi
-   ![Menu game]([flyingkirby/Resource/BackGround/menu.png](https://drive.google.com/file/d/1Wri-Uw9YE9zfl6PQC7vcooZJ-SwjUdqG/view?usp=sharing))
+   ![Menu game](https://drive.google.com/file/d/1Wri-Uw9YE9zfl6PQC7vcooZJ-SwjUdqG/view?usp=sharing)
 3. Hướng dẫn (Help)
    Giới thiệu ngắn gọn về trò chơi để người chơi nắm thông tin cơ bản
 4. 
