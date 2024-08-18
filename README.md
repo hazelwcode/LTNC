@@ -12,8 +12,10 @@ Một số tài nguyên em đã từng làm từ dự án cũ vẫn được t�
 ## Cách chơi game 
 **1. Khởi động trò chơi**
 Mở đầu, người chơi sẽ thấy màn hình Menu game. Tại đây có 3 lựa chọn cho người chơi lần lượt là **Play**(chơi), **Help**(hướng dẫn), **Exit**(thoát trò chơi). 
+
 **2. Chơi và xử lý thử thách**
 Khi người chơi tham gia trò chơi, người chơi phải cố gắng vượt qua nhiều vật cản như cây, chim bằng cách nhấn nút **SPACE** hoặc **UP**. Tốc độ của màn chơi sẽ tăng dần lên theo thời gian và số điểm, người chơi có thể nhấn **PAUSE** để tạm dừng trò chơi - nhấn **CONTINUE** để tiếp tục trò chơi.
+
 **3. Kết thúc trò chơi**
 Khi người chơi chạm phải các chướng ngại vật thì trò chơi sẽ kết thúc. Người chơi nhận điểm và có thể xác lập mục Điểm cao. Nhấn **SPACE** để tiếp tục chơi lại vòng chơi mới. 
 
