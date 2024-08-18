@@ -38,8 +38,13 @@ Khi người chơi chạm phải các chướng ngại vật thì trò chơi s�
 - Kirby: ![kirby](flyingkirby/Resource/Kirby/FlyingKirby.png)
   
 **8. Các kẻ địch**
-- Kẻ địch trên không: ![bat](flyingkirby/Resource/Enemy/Bat.png)
-- Kẻ địch mặt đất: ![cactus](flyingkirby/Resource/Enemy/Cactus.png)
+- Kẻ địch trên không:
+
+  ![bat](flyingkirby/Resource/Enemy/Bat.png)
+  
+- Kẻ địch mặt đất:
+
+   ![cactus](flyingkirby/Resource/Enemy/Cactus.png)
 
 # Các nguồn tham khảo 
 - Code, quản lý, tổ chức 1 dự án game tại:
