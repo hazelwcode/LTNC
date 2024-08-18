@@ -38,8 +38,8 @@ Khi người chơi chạm phải các chướng ngại vật thì trò chơi s�
 
 # Các nguồn tham khảo 
 - Code, quản lý, tổ chức 1 dự án game tại:
-  [Phát triển phần mềm 123A-Z](https://www.youtube.com/c/Ph%C3%A1tTri%E1%BB%83nPh%E1%BA%A7nM%E1%BB%81m123AZ)
-  [Series game Jack Adventure của CLB Lập trình PTIT](https://www.youtube.com/c/CLBL%E1%BA%ADpTr%C3%ACnhPTIT)
+  [Phát triển phần mềm 123A-Z](https://www.youtube.com/c/Ph%C3%A1tTri%E1%BB%83nPh%E1%BA%A7nM%E1%BB%81m123AZ);
+  [Series game Jack Adventure của CLB Lập trình PTIT](https://www.youtube.com/c/CLBL%E1%BA%ADpTr%C3%ACnhPTIT);
   [Let's Make Games]
 - Hình ảnh: Pinterest, nhân vật enemy lấy từ nguồn tham khảo trên
 - LazyFoo SDL Tutorial
