@@ -36,13 +36,14 @@ Khi người chơi chạm phải các chướng ngại vật thì trò chơi s�
   [Phát triển phần mềm 123A-Z](https://www.youtube.com/c/Ph%C3%A1tTri%E1%BB%83nPh%E1%BA%A7nM%E1%BB%81m123AZ)
   [Series game Jack Adventure của CLB Lập trình PTIT](https://www.youtube.com/c/CLBL%E1%BA%ADpTr%C3%ACnhPTIT)
   [Let's Make Games]
-- Hình ảnh: Pinterest
+- Hình ảnh: Pinterest, nhân vật enemy lấy từ nguồn tham khảo trên
 - LazyFoo SDL Tutorial
   
 # Tổng kết 
 ### Những kiến thức đã học được
 - Về kỹ năng: hiểu cách cơ cấu thành phần tổ chức 1 game và 1 dự án hoàn chỉnh; biết cách tổ chức và tự học, tự tìm tòi nhiều hơn; sáng tạo hơn và nâng cao kĩ năng giải quyết vấn đề.
 - Về kiến thức: nâng cao kỹ thuật lập trình, xây dựng từng lớp dự án bài bản hơn, hiểu về hoạt động của thư viện SDL2, ôn lại về git và github
+
 ### Những điều mong muốn cải thiện 
 - Có thể làm được nhiều tính năng nâng cao hơn cho game.
 - Phát triển Map cho game, tính năng chiến đấu cho nhân vật.
