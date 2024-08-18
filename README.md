@@ -35,7 +35,9 @@ Khi người chơi chạm phải các chướng ngại vật thì trò chơi s�
 **4. Hình ảnh khi thất bại**
 
 **7. Nhân vật chính**
-- Kirby: ![kirby](flyingkirby/Resource/Kirby/FlyingKirby.png)
+- Kirby:
+
+  ![kirby](flyingkirby/Resource/Kirby/FlyingKirby.png)
   
 **8. Các kẻ địch**
 - Kẻ địch trên không:
