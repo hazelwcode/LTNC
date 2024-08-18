@@ -20,7 +20,7 @@ Video giới thiệu về game:[video game](https://drive.google.com/drive/folde
    ![Menu game](https://drive.google.com/file/d/1Wri-Uw9YE9zfl6PQC7vcooZJ-SwjUdqG/view?usp=sharing)
 2. Hướng dẫn (Help)
    Giới thiệu ngắn gọn về trò chơi để người chơi nắm thông tin cơ bản:
-   [instruction](flyingkirby/Resource/BackGround/instruction.png)
+   ![instruction](flyingkirby/Resource/BackGround/instruction.png)
 3. 
 6. 
 7. Nhân vật chính
