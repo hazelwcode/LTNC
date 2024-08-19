@@ -11,8 +11,8 @@ int main(int argc, char* argv[]) {
     srand((unsigned int)time(0));
 
 
-    FlyingKirby* dinoGame = new FlyingKirby;
-    dinoGame->menuGame();
+    FlyingKirby* kirbyGame = new FlyingKirby;
+    kirbyGame->menuGame();
 
     return 0;
 }
