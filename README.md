@@ -51,7 +51,7 @@ Khi người chơi chạm phải các chướng ngại vật thì trò chơi s�
    ![cactus](flyingkirby/Resource/Enemy/Cactus.png)
 
 # Các nguồn tham khảo 
-- Code, quản lý, tổ chức 1 dự án game tại:
+- Code tham khảo, quản lý, tổ chức 1 dự án game tại:
   - [Phát triển phần mềm 123A-Z](https://www.youtube.com/c/Ph%C3%A1tTri%E1%BB%83nPh%E1%BA%A7nM%E1%BB%81m123AZ);
   - [Series game Jack Adventure của CLB Lập trình PTIT](https://www.youtube.com/c/CLBL%E1%BA%ADpTr%C3%ACnhPTIT);
   - [Let's Make Games]
@@ -60,6 +60,8 @@ Khi người chơi chạm phải các chướng ngại vật thì trò chơi s�
 - LazyFoo SDL Tutorial
   
 # Tổng kết 
+### Điểm mới của game
+- Vì đây là game đã từng bị lỗi của em trong dự án năm ngoái và bị bỏ ngỏ chưa hoàn thiện. Tuy nhiên, năm nay em đã cố gắng hoàn thiện hoàn chỉnh game với một số điểm như có thể chạy mượt mà hơn, có phần help và exit, xử lí các buttons (nút Pause, Continue, Music On, Music Off
 ### Những kiến thức đã học được
 - Về kỹ năng: hiểu cách cơ cấu thành phần tổ chức 1 game và 1 dự án hoàn chỉnh; biết cách tổ chức và tự học, tự tìm tòi nhiều hơn; sáng tạo hơn và nâng cao kĩ năng giải quyết vấn đề.
 - Về kiến thức: nâng cao kỹ thuật lập trình, tư duy về việc xây dựng từng lớp dự án bài bản hơn, hiểu về hoạt động của thư viện SDL2, ôn lại về git và github, trau dồi kĩ năng thiết kế
