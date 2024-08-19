@@ -24,15 +24,17 @@ Khi người chơi chạm phải các chướng ngại vật thì trò chơi s�
 
 # Các thông tin chi tiết 
 **1. Menu trò chơi**
-   ![Menu game](https://drive.google.com/file/d/1Wri-Uw9YE9zfl6PQC7vcooZJ-SwjUdqG/view?usp=sharing)
+   ![Menu game](flyingkirby/Resource/BackGround/menu.png)
    
 **2. Hướng dẫn (Help)**
    Giới thiệu ngắn gọn về trò chơi để người chơi nắm thông tin cơ bản:
    ![instruction](flyingkirby/Resource/BackGround/instruction.png)
    
 **3. Hình ảnh khi chơi trò chơi**
+![playingGame](flyingkirby/Resource/playing.png)
 
 **4. Hình ảnh khi thất bại**
+![losingGame](flyingkirby/Resource/losing.png)
 
 **7. Nhân vật chính**
 - Kirby:
